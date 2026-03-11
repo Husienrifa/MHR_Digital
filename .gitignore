@@ -1,0 +1,7 @@
+# This is a .gitignore file
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
